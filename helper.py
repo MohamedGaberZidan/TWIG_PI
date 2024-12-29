@@ -1,0 +1,2 @@
+CONNECTION_ERROR = 1
+OK = 0
