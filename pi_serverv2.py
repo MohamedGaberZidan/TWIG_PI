@@ -26,7 +26,7 @@ from bacpypes.object import (
     AnalogValueObject,
     BinaryValueObject,
     register_object_type,
-)
+)    
 from bacpypes.local.device import LocalDeviceObject
 from bacpypes.service.cov import ChangeOfValueServices
 logging.basicConfig(level=logging.DEBUG)
